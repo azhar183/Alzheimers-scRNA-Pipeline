@@ -1,0 +1,8 @@
+# Ignore raw data and processed objects
+GSE260461_RAW/
+sample_APOE3/
+cache/
+*.h5ad
+*.mtx
+*.tsv
+*.gz
